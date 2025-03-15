@@ -27,7 +27,7 @@ amigo-secreto/
 Clona el repositorio:
 
 ```
-git clone https://github.com/tu-usuario/amigo-secreto.git
+git clone https://github.com/CSfortin/amigo-secreto.git
 ```
 
 Abre el proyecto:
