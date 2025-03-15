@@ -9,15 +9,9 @@ Mostrar lista: Los nombres agregados se muestran en una lista en la página.
 
 Sortear amigo: Al hacer clic en "Sortear Amigo", se selecciona un nombre aleatorio de la lista y se muestra como el ganador.
 
-🛠️ Tecnologías utilizadas
-HTML: Estructura de la página.
 
-CSS: Estilos y diseño responsive.
-
-JavaScript: Lógica para agregar nombres, mostrar la lista y sortear un amigo.
-
-📂 Estructura del proyecto
-
+#📂 Estructura del proyecto
+```
 amigo-secreto/
 ├── index.html          # Archivo principal de la página
 ├── style.css           # Estilos CSS para la página
@@ -26,22 +20,23 @@ amigo-secreto/
 │   └── amigo-secreto.png
 │   └── play_circle_outline.png
 └── README.md           # Este archivo
+```
 
-
-🖥️ Cómo ejecutar el proyecto
+#🖥️ Cómo ejecutar el proyecto
 
 Clona el repositorio:
 
-...
+```
 git clone https://github.com/tu-usuario/amigo-secreto.git
-...
+```
 
 Abre el proyecto:
 
 Navega a la carpeta del proyecto:
-
-
+```
 cd amigo-secreto
+```
+
 Abre el archivo index.html en tu navegador.
 
 Agrega nombres y sortea:
