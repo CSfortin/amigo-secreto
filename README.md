@@ -10,7 +10,7 @@ Mostrar lista: Los nombres agregados se muestran en una lista en la página.
 Sortear amigo: Al hacer clic en "Sortear Amigo", se selecciona un nombre aleatorio de la lista y se muestra como el ganador.
 
 
-#📂 Estructura del proyecto
+# 📂 Estructura del proyecto
 ```
 amigo-secreto/
 ├── index.html          # Archivo principal de la página
@@ -22,7 +22,7 @@ amigo-secreto/
 └── README.md           # Este archivo
 ```
 
-#🖥️ Cómo ejecutar el proyecto
+# 🖥️ Cómo ejecutar el proyecto
 
 Clona el repositorio:
 
@@ -45,7 +45,7 @@ Ingresa nombres en el campo de texto y haz clic en "Añadir".
 
 Cuando estés listo, haz clic en "Sortear Amigo" para seleccionar un ganador aleatorio.
 
-#📝 Notas adicionales
+# 📝 Notas adicionales
 Este proyecto fue desarrollado como parte de un reto del curso de Alura.
 
 ¡Gracias por revisar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 😊
