@@ -39,13 +39,13 @@ cd amigo-secreto
 
 Abre el archivo index.html en tu navegador.
 
-Agrega nombres y sortea:
+#Agrega nombres y sortea:
 
 Ingresa nombres en el campo de texto y haz clic en "Añadir".
 
 Cuando estés listo, haz clic en "Sortear Amigo" para seleccionar un ganador aleatorio.
 
-📝 Notas adicionales
+#📝 Notas adicionales
 Este proyecto fue desarrollado como parte de un reto del curso de Alura.
 
 ¡Gracias por revisar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 😊
