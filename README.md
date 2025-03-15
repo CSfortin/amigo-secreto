@@ -2,7 +2,7 @@
 _¡Bienvenido al proyecto Amigo Secreto! Este es un reto del curso de Alura que tiene como objetivo fortalecer las habilidades en lógica de programación y manipulación del DOM con JavaScript.
 En este proyecto, se pueden agregar nombres de amigos  y sortear uno de ellos de manera aleatoria._
 
-## 🚀 Funcionalidades
+# 🚀 Funcionalidades
 _Agregar amigos: Ingresa los nombres de tus amigos en el campo de texto y haz clic en "Añadir" para agregarlos a la lista._
 
 Mostrar lista: Los nombres agregados se muestran en una lista en la página.
@@ -39,7 +39,7 @@ cd amigo-secreto
 
 Abre el archivo index.html en tu navegador.
 
-#Agrega nombres y sortea:
+# Agrega nombres y sortea:
 
 Ingresa nombres en el campo de texto y haz clic en "Añadir".
 
