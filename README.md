@@ -17,7 +17,7 @@ CSS: Estilos y diseño responsive.
 JavaScript: Lógica para agregar nombres, mostrar la lista y sortear un amigo.
 
 📂 Estructura del proyecto
-...
+
 amigo-secreto/
 ├── index.html          # Archivo principal de la página
 ├── style.css           # Estilos CSS para la página
@@ -26,7 +26,7 @@ amigo-secreto/
 │   └── amigo-secreto.png
 │   └── play_circle_outline.png
 └── README.md           # Este archivo
-...
+
 
 🖥️ Cómo ejecutar el proyecto
 
